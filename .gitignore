@@ -8,3 +8,8 @@ tempCodeRunnerFile.py
 models/model.h5
 models/label_encoder.pkl
 models/scaler.pkl
+
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+data/
