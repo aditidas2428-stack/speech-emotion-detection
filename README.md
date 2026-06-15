@@ -1,4 +1,4 @@
-#  Speech Emotion Detector
+#  Speech Emotion Detection
 
 ##  Overview
 
@@ -48,8 +48,8 @@ It analyzes voice input using machine learning and predicts emotions such as hap
 ### 1️ Clone the repository
 
 ```bash
-git clone https://github.com/aditidas2428-stack/speech-imotation-detector.git
-cd speech-imotation-detector
+git clone https://github.com/aditidas2428-stack/speech-imotation-detection.git
+cd speech-imotation-detection
 ```
 
 ### 2️ Create virtual environment
@@ -101,12 +101,12 @@ Upload a `.wav` file and get emotion prediction.
 
 
 
-##  Team
+## Team
 
-* Diya Samanta
 * Aditi Das
 * Sree Chakraborty
-
+* Debasish Aich
+  
 
 
 ##  Future Improvements
