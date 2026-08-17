@@ -88,7 +88,7 @@ Upload a `.wav` file and get emotion prediction.
 ##  Model Performance
 
 * Algorithm: Random Forest Classifier
-* Accuracy: ~98.6%
+* Accuracy: ~45.6%
 
 
 
